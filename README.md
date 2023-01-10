@@ -9,4 +9,5 @@ The main file where most of the class usage is meant to be written. Adds, subtra
 ## matrix.py
 A class representing an individual matrix with height, width and entries.
 
+## Goals
 The hope is to eventually design a cleaner UI, where the user can add input and interact with the calculator.
