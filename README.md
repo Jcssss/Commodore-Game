@@ -1,4 +1,4 @@
-# Matrix-Calculator
+# About
 A matrix calculator designed using python. While taking both a linear algebra and python course, I decided that coding a matrix calculator would be an excellent way to combine skills from both classes. 
 
 I recently remade the calculator using React JS. The repository for the updated project can be found [here](https://github.com/Jcssss/MatrixCalculatorWebApp).
